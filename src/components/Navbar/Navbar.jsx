@@ -52,7 +52,7 @@ const Navbar = () => {
 
         {/* Side drawer menu */}
         <div
-  a        className={
+  zz        className={
             nav
               ? "fixed top-0 right-0 w-[300px] h-screen bg-white z-10 duration-300"
               : "fixed top-0 right-[-100%] w-[300px] h-screen bg-white z-10 duration-300"
